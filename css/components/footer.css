@@ -1,0 +1,26 @@
+.footer{
+  margin-top: 50px;
+  background-size: cover;
+  background-color: #BCA198;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.footer .social-media{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer .social-media a{
+  text-decoration: none;
+  color: #664C43;
+  font-size: 30px;
+  letter-spacing: 10px;
+}
+
+.footer p{
+  color: #9F786B;
+  font-size: 25px;
+}
