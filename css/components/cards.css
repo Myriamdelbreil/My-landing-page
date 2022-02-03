@@ -35,3 +35,14 @@
   padding: 0 5px;
   text-align: justify;
 }
+
+.card a{
+  text-decoration: none;
+  color: #350312
+}
+
+.card a:hover{
+  text-decoration: none;
+  color: #350312;
+  opacity: 0.6
+}
